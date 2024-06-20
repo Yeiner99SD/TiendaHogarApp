@@ -8,11 +8,11 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tiendahogar</groupId>
-	<artifactId>backendapp</artifactId>
+	<groupId>com.construdiseno</groupId>
+	<artifactId>BACKENDAPP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backendapp</name>
-	<description>Demo project for Spring Boot</description>
+	<name>BACKENDAPP</name>
+	<description>Construdiseño application</description>
 	<url/>
 	<licenses>
 		<license/>
